@@ -3,7 +3,7 @@
 2. Clone the repo to your computer
 2B. You do not need to make a new branch, you can work on `main`
 3. Create `index.html` and use the `!` shortcut to create starter code
-4. Add an `<h1>Hello World</h1>` to the `<body>`
+4. Add an `C</h1>` to the `<body>`
 5. Then create a `styles.css` file and change the `color` property of your `h1` to a color of your choice
 6. Be sure to test your HTML in the browser and you should be able to see the color change of your Hello World text
 7. If the color hasn't changed you may not have linked it correctly... `<link href="" rel="stylesheet">`
